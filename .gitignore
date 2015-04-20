@@ -1,0 +1,3 @@
+# ignore dpkg-source patch handling
+debian/patches
+.pc
