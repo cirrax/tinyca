@@ -1,3 +1,10 @@
+tinyca (0.7.5-6~cirrax1) jessie-cirrax; urgency=medium
+
+  * Rebuild for Cirrax
+  * Set default digest to sha256
+
+ -- Gaudenz Steinlin <gaudenz@debian.org>  Mon, 20 Apr 2015 10:52:06 +0200
+
 tinyca (0.7.5-6) unstable; urgency=medium
 
   * Adds support for SHA2 Closes: #759481. Thanks to Bill Thorsteinson
